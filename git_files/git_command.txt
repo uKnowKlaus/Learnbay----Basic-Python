@@ -1,0 +1,29 @@
+to create a git repsotiry
+	- git init
+	
+	
+to add the changes in the staging area
+	- git add <filename.ext>  - moves one file at a time
+	- git add .  -> moves all the changed file to the staging area
+	
+
+to check the status of the area
+	- git status
+	
+
+to change the config
+	- git config --global user.name 'name'
+	- git config --global user.email 'email'
+	
+	
+to commit the changes
+	- git commit <filename.txt> -m 'write any commit'
+	
+	
+to revert back from stage to unstage area
+	- git rm --cache <filename.txt>
+	
+to check the config
+	- git config --list
+
+

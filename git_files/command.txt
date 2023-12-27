@@ -1,0 +1,60 @@
+1. pwd - present working directory
+
+2
+	to create one folder
+	mkdir folder_name - make directory
+
+	to create multiple folder
+	mkdir folder_name_1 folder_name2 foldername_3 ....n
+
+3.
+ to see all the files and folders
+ ls - list
+ 
+ to see all files and folder with hidden files
+ ls -a
+ 
+ to check the details of the files and folders
+ ls -l
+
+
+4. cd filder_name - change a directory
+
+5. 
+	going back a dir
+
+	cd ..
+
+6. clear - it is used to clean the terminal
+
+7. cntl + c - it is used to stop a current exection of command
+
+8. 
+
+	to remove a single folder
+	rmdir folder1- remove a directory ( can only del the empty folder)
+	
+	
+	to remove the multiple folder
+	rmdir folder1 folder2 .... n
+	
+9.
+
+rm -r folder_name -- remove thr directory forecefully / recursivly
+
+10.
+
+	command to create file
+	touch filename.ext
+	
+11.
+	 to see the content of a file
+	 cat filename.ext
+	 
+12.
+
+	open a file
+	nana filename.txt
+	
+	
+link for more commands - https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
